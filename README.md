@@ -86,7 +86,7 @@ Simple, scalable, and cost-efficient cloud architecture
 1. Create a new AWS Lambda function (Python 3.10)
 2. Paste the code below:
   ```bash
-    import json
+import json
 import os
 import urllib.request
 
