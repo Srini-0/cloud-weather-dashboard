@@ -29,7 +29,7 @@ Simple, scalable, and cost-efficient cloud architecture
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 | Layer | Technology | Purpose |
 |-------|-------------|----------|
@@ -42,7 +42,7 @@ Simple, scalable, and cost-efficient cloud architecture
 
 ---
 
-## 🧠 Architecture Diagram
+## Architecture Diagram
 
 ![Architecture Diagram](Assets/architecture.png)
 
